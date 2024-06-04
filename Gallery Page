@@ -25,10 +25,4 @@
             <div class="gallery-item"><img src="https://via.placeholder.com/400x300?text=Car+1" alt="Car 1"></div>
             <div class="gallery-item"><img src="https://via.placeholder.com/400x300?text=Car+2" alt="Car 2"></div>
             <div class="gallery-item"><img src="https://via.placeholder.com/400x300?text=Car+3" alt="Car 3"></div>
-            <div class="gallery-item"><img src="https://via.placeholder.com/400x300?text=Car+4" alt="Car 4"></div>
-            <div class="gallery-item"><img src="https://via.placeholder.com/400x300?text=Car+5" alt="Car 5"></div>
-            <div class="gallery-item"><img src="https://via.placeholder.com/400x300?text=Car+6" alt="Car 6"></div>
-        </div>
-    </div>
-</body>
-</html>
+            <div class="gallery-item
