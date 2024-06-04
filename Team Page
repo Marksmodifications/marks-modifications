@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team - Mark's Modifications</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Mark's Modifications</div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="team.html">Team</a>
+            <a href="reviews.html">Reviews</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <div class="container team-content" id="team">
+        <h1>Meet the Team</h1>
+        <p>Our team of dedicated professionals is here to serve you.</p>
+        <div class="team-list">
+            <div class="team-item">
+                <h3>Mark Smith</h3>
+                <p>Lead Designer</p>
+            </div>
+            <div class="team-item">
+                <h3>Jane Doe</h3>
+                <p>Vehicle Specialist</p>
+            </div>
+            <div class="team-item">
+                <h3>John Doe</h3>
+                <p>EUP Expert</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
