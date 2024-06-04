@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mark's Modifications</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Mark's Modifications</div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="team.html">Team</a>
+            <a href="reviews.html">Reviews</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <div class="container home-content" id="home">
+        <h1>Welcome to Mark's Modifications</h1>
+        <p>Your one-stop shop for custom liveries, EUP, and cars in FiveM, the ultimate GTA roleplay platform.</p>
+    </div>
+    <div class="about">
+        <h2>About Me</h2>
+        <p>I specialize in creating unique liveries, EUP, and custom cars for FiveM, providing the best modifications to enhance your GTA roleplay experience. Whether you're looking for a sleek design or a detailed uniform, I have you covered.</p>
+    </div>
+</body>
+</html>
